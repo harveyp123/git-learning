@@ -72,10 +72,12 @@ By using these approaches, you can selectively accept or modify changes from a G
 
 ----------
 ## Question:
+
 In "Option 1: Review and Edit Changes Before Merging", will the fetched PR branch shows all difference of PR so that we can accept or deny changes?
 
 ----------
 ## Answer (GPT):
+
 Yes, when you use **Option 1: Review and Edit Changes Before Merging** by fetching the PR branch locally, the branch will show all the differences that the PR introduces compared to your current branch (usually `main` or `develop`). This allows you to review the changes and then selectively accept, modify, or reject them.
 
 Here’s what happens in detail:
