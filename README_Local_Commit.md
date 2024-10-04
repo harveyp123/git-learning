@@ -1,3 +1,4 @@
+----------
 ## Question
 
 I used following code to pull a github branch:
@@ -17,6 +18,7 @@ git branch -r
 ```
 Please firstly repeat the original command and explain the rough description of command
 
+----------
 ## Answer (from GPT)
 
 Here's the original command you used:
@@ -71,6 +73,7 @@ git branch -r
 
 This sequence of commands allows you to make changes to a GitHub repository, commit them, create a new branch, and push that branch to the remote repository.
 
+----------
 ## Question
 
 How to fetch the another branch and merge into ```new_branch_name``` branch
@@ -81,6 +84,7 @@ git merge origin/main_branch_name
 ```
 Please firstly repeat the original command and explain the rough description of command
 
+----------
 ## Answer (from GPT)
 
 Here is your original command:
